@@ -10,14 +10,9 @@ class Solution(object):
         :rtype: Optional[ListNode]
         """
         temp = head 
-        seen = []
-        prev = None
-        while temp is not None:
-            if temp.val not in seen:
-                seen.append(temp.val)
-                prev = temp
+        while temp and temp.next:
+            if temp.val == temp.next.val:
+                temp.next = temp.next.next
             else:
-                prev.next = temp.next
-
-            temp = temp.next
+                temp = temp.next
         return head
