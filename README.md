@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0027-remove-element) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0069-sqrtx) |
 ## Dynamic Programming
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
