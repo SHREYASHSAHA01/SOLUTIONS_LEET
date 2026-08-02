@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0088-merge-sorted-array) |
+| [0877-stone-game](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0877-stone-game) |
 ## Trie
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -92,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0004-median-of-two-sorted-arrays) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
