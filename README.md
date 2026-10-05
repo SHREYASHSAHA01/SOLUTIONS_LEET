@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0877-stone-game) |
 ## Trie
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0118-pascals-triangle) |
 | [0877-stone-game](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0877-stone-game) |
 ## Memoization
 |  |
