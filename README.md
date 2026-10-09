@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0070-climbing-stairs) |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0005-longest-palindromic-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/SHREYASHSAHA01/SOLUTIONS_LEET/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
